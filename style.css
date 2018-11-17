@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    margin: 10px;
+    background-color: #000;
+    color: #FFF;
+}
+header {
+    text-transform: uppercase;
+    font-family: 'Allerta Stencil', sans-serif;
+}
+.song p {
+    padding: 10px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 22px;
+}

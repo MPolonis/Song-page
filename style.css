@@ -8,6 +8,9 @@ header {
     text-transform: uppercase;
     font-family: 'Allerta Stencil', sans-serif;
 }
+header p {
+    font-size: 20px;
+}
 .song p {
     padding: 10px;
     font-family: 'Indie Flower', cursive;

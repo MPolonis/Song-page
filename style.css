@@ -8,7 +8,7 @@ header {
     text-transform: uppercase;
     font-family: 'Allerta Stencil', sans-serif;
 }
-header p {
+.size {
     font-size: 20px;
 }
 .song p {

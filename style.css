@@ -7,6 +7,10 @@ body {
 header {
     text-transform: uppercase;
     font-family: 'Allerta Stencil', sans-serif;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+        justify-content: center;
 }
 .size {
     font-size: 20px;

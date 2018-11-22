@@ -10,7 +10,8 @@ header {
   font-family: 'Allerta Stencil', sans-serif;
   display: -ms-flexbox;
   display: flex;
-  justify-content: center;
+  -ms-flex-pack: center;
+      justify-content: center;
 }
 
 .size {
@@ -22,5 +23,4 @@ header {
   font-family: 'Indie Flower', cursive;
   font-size: 22px;
 }
-
 /*# sourceMappingURL=style.css.map */
